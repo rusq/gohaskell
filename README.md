@@ -64,6 +64,6 @@ Check the output and use it as the guidance, and let the sun enlighten your trea
 
 ## References
 
-Based on this materials:
+Based on the following materials:
 * [Calling Haskell From C](https://wiki.haskell.org/Calling_Haskell_from_C)
 * [Go: passing argv to C function](https://stackoverflow.com/questions/37657326/go-passing-argv-to-c-function)
