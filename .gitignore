@@ -1,0 +1,5 @@
+haskelgo
+*~
+*.o
+*.hi
+Safe_stub.h
